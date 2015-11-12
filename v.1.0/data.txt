@@ -1,0 +1,32 @@
+DROGA;CATEGORIA;ESPECIE;FAMILIA;P.A.;EMPLEOS
+Hojas de Gayuba;FENOLES SIMPLES;Arctostaphylus uva-ursi L.;Ericaceas;Arbutosido,Metil-arbutosido,Arbutina<->Hidroquinona;Desinfectante vias urinarias,Despigmentante
+Corteza de Sauce;ACIDOS FENOLES;Salix alba;Salicaceas;Salicortina->Salicosido->Acido Salicilico;Analgesico,Antipiretico,Antiinflamatorio
+Hoja de Alcachofa;ACIDOS FENOLES;Cynara scolymus;Asteraceas;CINARINA,Acido cafeico,Acido clorogenico;Coleretico,Hepatoprotector
+Sumidad del Romero;ACIDOS FENOLES;Rasmarinus officinalis;Limiaceas;ACIDO ROSMARICO,Acido cafeico,Acido clorogenico;ANTIOXIDANTE,Catarros,Enjuagues bucales,Digestivo,Dolor articular
+Rizoma y raiz de Equinacea;ACIDOS FENOLES;Echinacea sp.;Asteraceas;EQUINACOSIDO,Acido clorogenico,Cinarina,Acido achicosido;INMUNOESTIMLANTES,Estados gripales,Cicatrizantes
+Balsamo de Peru;ACIDOS FENOLES;Myroxylon balsamum;Fabaceas;CINAMEINA 50-60% (mezcla de esteres);Perfumeria
+Balsamo de Rolu;ACIDOS FENOLES;Myroxylon toniferum;Fabaceas;Acido benzoico,Acido cinamico,ESTERES DE BENZOATOS Y CINAMATOS,Sesquiterpenos y derivados fenolicos;Perfumeria
+Semillas y cortezas de Castano de Indias;CUMARINAS;Aesculus hippocastanum;Hippocastanacea;SEMILLA: Compuestos terpenticos 10%: ESCEINA/Aescina,Derivados fenolicos: Kanferol y queroetina,CORTEZA: Compuestos fenolicos: Taninos,CUMARINAS 2-3% (fraxosido y ESCULOSIDO);CORTEZA,Venotonica,SEMILLA,Antiinflamatorio,Antiedematoso
+Sumidad florida de Meliloto;CUMARINAS;Melilotus officinalis;Leguminosas;FLAVONOIDES,Saponosidos con genina triterpenica,Metilosido->Cumarina->DICUMAROL;Antiedematoso,Incremento flujo venoso-linfatico,Permeabilidad capilar
+Fruto de Ammi visnaga;CUMARINAS;Ammi Visnaga;Umbilifera;Furanocromonas 2-4%: Kelina y Visnagina,PiranoCUMARINAS: Visnadina;DROGA COMPLETA,Espasmolitico sobre musc. liso.,FURANOCROMONAS,Espasmolitico fototoxicos,PIRANOCUMARINAS,Vaso dilatador coronario, Indicaciones: Colicos biliares / Tos espasmodica y asma / Angina de pecho
+Rizoma de Podofilo;LIGNANOS;Podofillum peltatum;Berbaridacea;RESINA 3-6%: Podofilotoxina (20%),alpha y beta peltatina (5-10%),Desexipodofilotoxina;Actividad antitumoral in vivo e in vitro,Tratamiento condiloma externo
+Fruto de Cardo Mariano;LIGNANOS;Sylibun marianum;Ateraceas;FLAVALIGNANO 1.5-3% - Mezcla de compuestos (SILIMARINA);Protector hepatico
+Hojas de Ginkgo;FLAVONOIDES;Ginkgo biloba;Ginkgoaceas;Flavonoides (quercetol / kenferol / luteolina),Biflavonoides (amentoflavona / ginketol / isogingketol / bilobetol),Lactonas diterpenicos (Ginkgolidos A / B / C / J y M),Lactonas sesquiterpenicos (bilobalido);Vasorregulador,Antioxidante,Antiagregante plaquetario,Neuroprotector
+Tallos esteriles de Cola de Caballo;FLAVONOIDES;Equisetum arvense;Equisetaceas;Flavonoides,Acido fenoles derivados del cinamico,Saponosido: EQUISETOSIDO;Diuretico,Hemostatica,Remineralizante
+Semilla de Soja;FLAVONOIDES;Glycine max;Fabaceas;Lipidos (leticina),Isoflavonas (daidzeina, genisteina);Preventiva del cancer (mujer),Trastornos de la menopausia
+Hojas de Arandanos;ANTOCIANOS;Vaccinium myrtillus L.;Ericaceae;Taninos,FLAVOIDES,Acidos fenoles;Protectores venosos,Antioxidantes,Antisepticas
+Frutos de Camberry;ANTOCIANOS;Vaccinium macrocarpen Aiton;Ericaceae;ANTOCIANOS,Taninos,FLAVOIDES,Acidos fenoles;INFECCIONES URINARIAS,Protectores venosos,Antioxidantes,Antisepticas
+Hojas y fruto de Grosellero negro;ANTOCIANOS;Ribes nigrum L.;Grosulariacea;Taninos,FLAVOIDES,Acidos fenoles;Protectores venosos,Antioxidantes,Antisepticas
+Hojas y semillas de Vid Roja;ANTOCIANOS;Vitis vinifera L.;Vitaceae;Taninos,FLAVOIDES,Acidos fenoles,HOJAS: Cianidol / Peonidol;Protectores venosos,Antioxidantes,Antisepticas,RESVERATROL: ESTILBILENO
+Agallas de Roble;TANINOS;Quercus infectoria;Fagacea;Tanino galico 50-70%;Astringente, Hemostatico y vasoconstrictor
+Hojas y Corteza de Hamemelis virginiana;TANINOS;Hamemelis virginiana;Hamamelidacea;HOJAS: Tanino galicos 10%: Hamamelitianino,CORTEZA: Taninos condensados: Hamamelitanino;Bacteriostatico,Protectores venosos,insuficiencia venosa,Sindrome hemorroidal,Irritacion y trastornos oculares,Cosmetica: (Agua de Hamemelis)
+Hojas de Gayuba;QUINONAS;Arctostaphylus uva-ursi L.;Ericaceas;Hidroquinona;Despigmentante
+Hojas de Lawsonia inermis;QUINONAS;Lawsonia inermis;Lytraceas;Lawsoma;Colorante de cabellos
+Hojas de Juglans regia;QUINONAS;Juglans regia (nogal);Junglandaceas;Juglona;Antifungica,Antibacteriana
+Sumidad de Drosera rotindifolia;QUINONAS;Drosera rotindifolia (carnivora);Droseraceas;Plumbagona;Relajante de musculatura lisa: tos espasmodica
+Corteza de Frangula;QUINONAS;Ramnis frangula;Ramnaceas;Fangulosido A y B,Glucofrangulosido A y B;Laxante estimulante
+Corteza de Cascara Sagrada;QUINONAS;Ramnus pursiana;Ramnaceas;Cascarosidos (C-Heterosidos + O-Heterosidos);Laxante estimulante
+Hoja y Fruto de Senes;QUINONAS;Cassia angustifolia,Cassia senna;Leguminosas;Senosidos A, B, C y D (en droga desecada solo);Laxante estimulante
+Hoja de Aloe;QUINONAS;Aloe barbadensis (A. vera),Aloe del Cabo (A.ferox);Lilaceas;Aloina/Barbaleina,Aloinosido;AZIBAR: Laxante estimulante,GEL: Hidratante / Aislante / Dermoprotector
+Sumidad florida de Hiperico (Hierba de San Juan);QUINONAS;Hypericum perforatum;Clusiaceae;Hiperforina(<-floroglucinol),Hipericina y pseudohipericina;Externo: Cicatrizante / Antiinflamatorio / Antivitales / Antibacteriano,Interno: Antidepresivo 
+Sumidad de Canamo Indiano;QUINONAS;Cannabis sativa;Cannabaceas;SUMIDAD FEMENINA NO DESPROVISTA DE RESINA: Terpenfenoles: Alpha Tetrahidrocannabinol (THC),Cannabinol,Cannabidiol,Precursor: Cannabigerol;Efecto psicoactivo (THC),Euforia,Sedacion,Alteracion memoria a corto plazo,Broncodilator,VOMITOS QUIMOTERAPIA,ANOREXIA TERMINAL,RIGIDEZ MUSCULAR EN EM
