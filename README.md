@@ -20,12 +20,12 @@ The syntax of the .txt would be as follows:
 Let's say we want to memorize cars. 
 First line contains the categories:
 
-NAME;BRAND;DOORS;AVAILABLE COLOURS;
+<code>NAME;BRAND;DOORS;AVAILABLE COLOURS;</code>
 
 After that, we would have our cars. For example:
 
-560SL;Mercedes Benz;4;Black,Red,White
-Beetle;Volkswagen;4;Yellow
+<code>560SL;Mercedes Benz;4;Black,Red,White
+Beetle;Volkswagen;4;Yellow</code>
 
 Etc.
 
