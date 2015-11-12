@@ -14,8 +14,8 @@ First, you need a data.txt. This text file will contain whatever you want to mem
 For now, as of v.1.0., the program only reads one data.txt, so be sure to change the name of the file if you want to load other data.
 
 The syntax of the .txt would be as follows:
-- Each item is separated by ;, no spaces before or after.
-- If an item has several subitems, they will be separated by commas (,), no spaces before of after.
+- Each item is separated by ;, no spaces before nor after.
+- If an item has several subitems, they will be separated by commas (,), no spaces before nor after.
 
 Let's say we want to memorize cars. First line contains the categories:<br/>
 <code>NAME;BRAND;DOORS;AVAILABLE COLOURS;</code>
