@@ -24,9 +24,8 @@ First line contains the categories:
 
 After that, we would have our cars. For example:
 
-<code>560SL;Mercedes Benz;4;Black,Red,White
-
-Beetle;Volkswagen;4;Yellow</code>
+<code>560SL;Mercedes Benz;4;Black,Red,White</code>
+<code>Beetle;Volkswagen;4;Yellow</code>
 
 Etc.
 
