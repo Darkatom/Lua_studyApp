@@ -18,12 +18,12 @@ The syntax of the .txt would be as follows:
 - If an item has several subitems, they will be separated by commas (,), no spaces before of after.
 
 Let's say we want to memorize cars. 
-First line contains the categories:
+First line contains the categories:\n
 NAME;BRAND;DOORS;AVAILABLE COLOURS;
 
-After that, we would have our cars. For example:
-560SL;Mercedes Benz;4;Black,Red,White
-Beetle;Volkswagen;4;Yellow
+After that, we would have our cars. For example:\n
+560SL;Mercedes Benz;4;Black,Red,White\n
+Beetle;Volkswagen;4;Yellow\n
 
 Etc.
 
