@@ -23,7 +23,7 @@ First line contains the categories:<br/>
 
 After that, we would have our cars. For example:<br/>
 <code>560SL;Mercedes Benz;4;Black,Red,White</code><br/>
-<code>Beetle;Volkswagen;4;Yellow</code>><br/>
+<code>Beetle;Volkswagen;4;Yellow</code><br/>
 Etc.
 
 Then, you start the app (yey!). You will be presented with two options: 1. See Stored Data (useful to check if data.txt is correct) and 2. Study!
